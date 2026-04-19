@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Aura | Precise Heart Risk Analysis",
-  description: "Advanced heart attack risk prediction using localized clinical data and optimized machine learning models.",
+  title: "Myocardial Risk Index | Precise Heart Risk Analysis",
+  description: "Advanced cardiac event prediction using localized clinical data and optimized machine learning models.",
 };
 
 export default function RootLayout({

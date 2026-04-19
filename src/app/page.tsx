@@ -165,7 +165,7 @@ export default function Home() {
       {/* Minimal Footer */}
       <footer className="py-20 text-center border-t border-glass-border">
         <p className="text-muted text-xs tracking-widest uppercase">
-          &copy; 2026 Aura Intelligent Systems &bull; Powered by Medical Data Science
+          &copy; 2026 Myocardial Risk Index &bull; Powered by Clinical Data Science
         </p>
       </footer>
     </main>
